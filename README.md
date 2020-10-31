@@ -5,8 +5,6 @@
 紹介動画URL
 https://d.kuku.lu/a154472184
 
-github
-https://github.com/Yamashita-Taiki/write_light
 
 使用した技術
   ・フロント周りにSwift
